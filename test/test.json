@@ -1,0 +1,522 @@
+{
+    "search_metadata": {
+        "id": "6a59ce51ff596e4c2a09de8b",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/HTst0BkygNosYIu_QW_PPg/6a59ce51ff596e4c2a09de8b.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/HTst0BkygNosYIu_QW_PPg/6a59ce51ff596e4c2a09de8b.json_with_pixel_position",
+        "created_at": "2026-07-17 06:40:17 UTC",
+        "processed_at": "2026-07-17 06:40:17 UTC",
+        "google_url": "https://www.google.com/search?q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&oq=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/HTst0BkygNosYIu_QW_PPg/6a59ce51ff596e4c2a09de8b.html",
+        "total_time_taken": 1.09
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "iPhone\u6700\u65b0\u6b3e",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "iPhone\u6700\u65b0\u6b3e",
+        "total_results": 124,
+        "time_taken_displayed": 0.19,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "related_questions": [
+        {
+            "question": "iPhone 16\u4ec0\u4e48\u65f6\u5019\u51fa\uff1f",
+            "type": "ai_overview",
+            "page_token": "hTs7pHicHdBdboIwAADg7DI-jl9dNDGLVSo6qbPQUvuy1IKgUui0DOVtd9mpdpol-47wff9Up_ry-8RKY_RtYlld1z0XTVNU-bNslCVuj1paUlTVQcjLZPQycl6PchrcOjBvOrAjWtMFtmMydFPFfW4jgvuZj9jMiwisBdv5lBaGK-ctgfiOatgJika40gC5vrdhWm8SaHhSXklIP2OGQm6bMPO0yQnn_ILfUbC_y5o-EI2GosqCnNxsqqDau2Ub26UjA8cnZw4ThiOpsjYPhiBdICarokdL026SyOzUuCd2eU4SgFhPV5lrx9ChPaK6PHgwxGzlxnV53kLgIAiuksD18rQGOESPbcoxVfe5JFm5S00ognF0UDhIVNUKF4YiRfY2MGBwlF9Tb_A_Nv04KjPR16b4A_ozeEA",
+            "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hTs7pHicHdBdboIwAADg7DI-jl9dNDGLVSo6qbPQUvuy1IKgUui0DOVtd9mpdpol-47wff9Up_ry-8RKY_RtYlld1z0XTVNU-bNslCVuj1paUlTVQcjLZPQycl6PchrcOjBvOrAjWtMFtmMydFPFfW4jgvuZj9jMiwisBdv5lBaGK-ctgfiOatgJika40gC5vrdhWm8SaHhSXklIP2OGQm6bMPO0yQnn_ILfUbC_y5o-EI2GosqCnNxsqqDau2Ub26UjA8cnZw4ThiOpsjYPhiBdICarokdL026SyOzUuCd2eU4SgFhPV5lrx9ChPaK6PHgwxGzlxnV53kLgIAiuksD18rQGOESPbcoxVfe5JFm5S00ognF0UDhIVNUKF4YiRfY2MGBwlF9Tb_A_Nv04KjPR16b4A_ozeEA",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1owaGFhVGxuVm5oTlJXbEtlRGxTUzBkeFZuRmxVRkl6ZGxWQ1FsSTBRVWQzWldwMmRGZHRNbE5UWVdGRmRUbFhhemhOV0VWWFpUbEVZbmM1TmxSMVZ6VjBOVWhhYW01NWFsWlFUalo0V0dOVlJVVnlRazR3TmpSdFVSSVhWWE0xV21GdmNVZEZjalpLZUdNNFVIVTBVR3R4UVVrYUlrRkVjM0k1WmxGNVIwRlpVMVkzZWxaRU0zWnBSbk15UVhCWWFWSmhRMmh4TjJjIiwiZmN2IjoiMyIsImVpIjoiVXM1WmFvcUdFcjZKeGM4UHU0UGtxQUkiLCJxYyI6IkNoRnBjR2h2Ym1VZzVweUE1cGF3SU9hc3ZoQVFmV0pXYVQ4IiwicXVlc3Rpb24iOiJpUGhvbmUgMTbku4DkuYjml7blgJnlh7rvvJ8iLCJsayI6IkdodHBjR2h2Ym1VZ01UWWc1THVBNUxtSUlPYVh0dVdBbVNEbGg3byIsImJzIjoiYy1PeTRaTE9ETWpJejB0Vk1EUjdzcnZoeWM2T1o5TzNQVzJZLWJSOTFfczk4NDFrcGFRekM2RFNDaEI1QllnQ0JhQUtBVVlBIiwiaWQiOiJmY19VczVaYW9xR0VyNkp4YzhQdTRQa3FBSV8yIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1owaGFhVGxuVm5oTlJXbEtlRGxTUzBkeFZuRmxVRkl6ZGxWQ1FsSTBRVWQzWldwMmRGZHRNbE5UWVdGRmRUbFhhemhOV0VWWFpUbEVZbmM1TmxSMVZ6VjBOVWhhYW01NWFsWlFUalo0V0dOVlJVVnlRazR3TmpSdFVSSVhWWE0xV21GdmNVZEZjalpLZUdNNFVIVTBVR3R4UVVrYUlrRkVjM0k1WmxGNVIwRlpVMVkzZWxaRU0zWnBSbk15UVhCWWFWSmhRMmh4TjJjIiwiZmN2IjoiMyIsImVpIjoiVXM1WmFvcUdFcjZKeGM4UHU0UGtxQUkiLCJxYyI6IkNoRnBjR2h2Ym1VZzVweUE1cGF3SU9hc3ZoQVFmV0pXYVQ4IiwicXVlc3Rpb24iOiJpUGhvbmUgMTbku4DkuYjml7blgJnlh7rvvJ8iLCJsayI6IkdodHBjR2h2Ym1VZ01UWWc1THVBNUxtSUlPYVh0dVdBbVNEbGg3byIsImJzIjoiYy1PeTRaTE9ETWpJejB0Vk1EUjdzcnZoeWM2T1o5TzNQVzJZLWJSOTFfczk4NDFrcGFRekM2RFNDaEI1QllnQ0JhQUtBVVlBIiwiaWQiOiJmY19VczVaYW9xR0VyNkp4YzhQdTRQa3FBSV8yIn0%3D"
+        }
+    ],
+    "ai_overview": {
+        "text_blocks": [
+            {
+                "type": "paragraph",
+                "snippet": "\u82f9\u679c\u76ee\u524d\u6700\u65b0\u7684\u4e3b\u529b\u673a\u578b\u4e3a iPhone 17 \u7cfb\u5217\uff08\u5305\u542b iPhone 17\u3001iPhone 17 Air\u3001iPhone 17 Pro \u53ca iPhone 17 Pro Max\uff09\u4ee5\u53ca iPhone 16 \u7cfb\u5217\uff08\u5305\u542b iPhone 16\u3001iPhone 16 Plus \u548c iPhone 16e\uff09\u3002",
+                "snippet_links": [
+                    {
+                        "link": "https://www.apple.com/tw/iphone/"
+                    }
+                ],
+                "snippet_highlighted_words": [
+                    "iPhone 17 \u7cfb\u5217\uff08\u5305\u542b iPhone 17\u3001iPhone 17 Air\u3001iPhone 17 Pro \u53ca iPhone 17 Pro Max\uff09\u4ee5\u53ca iPhone 16 \u7cfb\u5217\uff08\u5305\u542b iPhone 16\u3001iPhone 16 Plus \u548c iPhone 16e\uff09"
+                ],
+                "reference_indexes": [
+                    0,
+                    1
+                ]
+            },
+            {
+                "type": "paragraph",
+                "snippet": "\u5982\u679c\u60a8\u6b63\u5728\u8003\u8651\u5165\u624b\u6700\u65b0\u6b3e\uff0c\u53ef\u4ee5\u6839\u636e\u81ea\u8eab\u9700\u6c42\u548c\u9884\u7b97\u6765\u9009\u62e9\uff1a"
+            },
+            {
+                "type": "list",
+                "list": [
+                    {
+                        "snippet": "\u8ffd\u6c42\u6781\u81f4\u6027\u80fd\u8207\u9802\u7d1a\u5f71\u50cf\uff1a \u63a8\u85a6\u9078\u64c7 iPhone 17 Pro\u6216 iPhone 17 Pro Max\u3002\u5b83\u5011\u642d\u8f09\u4e86\u7b2c\u4e09\u4ee3 3 \u5948\u7c73\u88fd\u7a0b\u7684 A19 Pro \u6676\u7247\uff0c\u4e26\u914d\u5099\u4e86\u5f37\u608d\u7684 Pro \u7d1a\u62cd\u651d\u7cfb\u7d71\u548c\u5168\u65b0\u7684 Center Stage \u524d\u7f6e\u93e1\u982d\u3002",
+                        "snippet_links": [
+                            {
+                                "link": "https://www.apple.com.cn/iphone-17-pro/"
+                            }
+                        ],
+                        "reference_indexes": [
+                            2
+                        ]
+                    },
+                    {
+                        "snippet": "\u8ffd\u6c42\u8f15\u8584\u8207\u8a2d\u8a08\u611f\uff1a \u5168\u65b0\u7684 iPhone Air \u7cfb\u5217\u4e3b\u6253\u8d85\u8584\u3001\u6975\u81f4\u512a\u96c5\u7684\u5de5\u696d\u8a2d\u8a08\u3002",
+                        "snippet_links": [
+                            {
+                                "link": "https://www.ireashare.com/cn/ios-devices/best-iphone.html"
+                            }
+                        ],
+                        "reference_indexes": [
+                            3
+                        ]
+                    },
+                    {
+                        "snippet": "\u9ad8\u6027\u50f9\u6bd4\u3001\u9810\u7b97\u6709\u9650\u7684\u9996\u9078\uff1a \u860b\u679c\u5728\u5e73\u50f9\u6b3e\u4e5f\u63a8\u51fa\u4e86\u6975\u5177\u7af6\u722d\u529b\u7684\u6a5f\u578b\uff0c\u5982 iPhone 17e\uff08\u642d\u8f09 A19 \u6676\u7247\uff09\u4ee5\u53ca\u7a0d\u65e9\u63a8\u51fa\u7684 iPhone 16e\uff0c\u975e\u5e38\u9069\u5408\u65e5\u5e38\u65e5\u5e38\u4f7f\u7528\u3002",
+                        "snippet_links": [
+                            {
+                                "link": "https://zh.wikipedia.org/zh-tw/IPhone"
+                            }
+                        ]
+                    }
+                ],
+                "reference_indexes": [
+                    1,
+                    4
+                ]
+            },
+            {
+                "type": "paragraph",
+                "snippet": "\u5c0d\u65bc\u60f3\u8981\u9032\u4e00\u6b65\u4e86\u89e3 iPhone 17 \u7cfb\u5217\u5916\u578b\u6539\u7248\u53ca\u8f15\u8584\u8a2d\u8a08\uff08\u5982 iPhone 17 Air\uff09\u7684\u4f7f\u7528\u8005\uff1a",
+                "video": {
+                    "link": "https://www.youtube.com/watch?v=pVNqL-nOVGE",
+                    "thumbnail": "https://serpapi.com/searches/6a59ce51ff596e4c2a09de8b/images/uhAkCIL84Rm8Fgv_8FhM2pRgpd5pR67DDzk0gWWS5K3Ls4lgk8GV-vr1-QuK5ZzV.jpeg"
+                }
+            },
+            {
+                "type": "paragraph",
+                "snippet": "\u5982\u9700\u67e5\u770b\u5404\u6b3e\u6a5f\u578b\u7684\u8a73\u7d30\u898f\u683c\u8207\u6700\u65b0\u7a7a\u6a5f\u5831\u50f9\uff0c\u53ef\u76f4\u63a5\u9020\u8a2a Apple \u53f0\u7063\u5b98\u65b9\u7db2\u7ad9 \u6216 Apple \u4e2d\u570b\u5927\u9678\u5b98\u65b9\u7db2\u7ad9\u3002 Apple +1",
+                "snippet_links": [
+                    {
+                        "text": "Apple \u53f0\u7063\u5b98\u65b9\u7db2\u7ad9",
+                        "link": "https://www.apple.com/tw/iphone/"
+                    },
+                    {
+                        "link": "https://www.apple.com/tw/iphone/"
+                    }
+                ]
+            }
+        ],
+        "references": [
+            {
+                "title": "iPhone - Apple (\u53f0\u7063)",
+                "link": "https://www.apple.com/tw/iphone/",
+                "snippet": "\u70baApple Intelligence \u7cbe\u5fc3\u8a2d\u8a08\u3002\u63a2\u7d22iPhone 17 Pro\u3001iPhone Air\u3001iPhone 17 \u8207iPhone 17e\uff0c\u4ee5\u53caiPhone 16\u3002",
+                "source": "apple.com",
+                "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwStHdO1duwId_SrKG2nMEyu_TA8zdEl-AEJG-OoIK4Cryph31dmAzekRPbsvJQAu5XLn0iV-mlnp1bPg",
+                "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.apple.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "index": 0
+            },
+            {
+                "title": "iPhone - \u7dad\u57fa\u767e\u79d1\uff0c\u81ea\u7531\u7684\u767e\u79d1\u5168\u66f8",
+                "link": "https://zh.wikipedia.org/zh-tw/IPhone",
+                "snippet": "2023\u5e749\u670813\u65e5\uff0c\u860b\u679c\u516c\u53f8\u63a8\u51fa\u4e86\u56db\u6b3e\u65b0\u88dd\u7f6e\uff1aiPhone15\u3001iPhone 15 Plus\u3001iPhone 15 Pro \u548ciPhone 15 Pro Max\u3002\u5168\u7cfb\u5217\u63a1\u7528\u9748\u52d5\u5cf6\u8a2d\u8a08\u3002iPhone 15\u3001iPhone 15 Plus\u642d\u8f09A16 \u4eff\u751f\u6676\u7247\uff0ciPhone 15 Pro \u548ciPhone 15 Pro Max...",
+                "source": "zh.wikipedia.org",
+                "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSB6HGzWHNH7EFYoiHHh5Svl42Ox24ztgHczoDyLzQ1rFhYjk2mPzWJim_VBIlOD3ynZ_xP_ShhVmOzAU4",
+                "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://zh.wikipedia.org&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "index": 1
+            },
+            {
+                "title": "iPhone 17 Pro \u548ciPhone 17 Pro Max - Apple (\u4e2d\u56fd\u5927\u9646)",
+                "link": "https://www.apple.com.cn/iphone-17-pro/",
+                "snippet": "iPhone 17 Pro \u767b\u573a\u3002\u62e5\u6709\u5f3a\u608d\u8d85\u51e1\u7684\u6027\u80fd\uff0c\u5168\u65b0Center Stage \u524d\u7f6e\u6444\u50cf\u5934\uff0c\u9876\u5c16\u7684Pro \u7ea7\u62cd\u6444\u7cfb\u7edf\uff0c\u5927\u5927\u7a81\u7834\u7684\u7535\u6c60\u7eed\u822a\uff0c\u548c\u7b2c\u4e09\u4ee33 \u7eb3\u7c73\u82af\u7247A19 Pro\u3002",
+                "source": "apple.com.cn",
+                "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRzd7P_mPYwLEnmP8WvYxu3q5PNVUDNrk6cw_av6kSZKOcAVR_YQfn8NsrwrexlwklObQBzmHFoGpKnBTg",
+                "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.apple.com.cn&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "index": 2
+            },
+            {
+                "title": "\u54ea\u6b3eiPhone \u6700\u597d\uff1fiPhone 17 \u7cfb\u5217 - iReaShare",
+                "link": "https://www.ireashare.com/cn/ios-devices/best-iphone.html",
+                "snippet": "\u201c\u6211\u5e94\u8be5\u4e70\u54ea\u6b3eiPhone\uff1f\u54ea\u6b3eiPhone \u66f4\u597d\uff1f\u201d\u5f88\u591a\u4eba\u5728\u4e0d\u540c\u7684\u5e73\u53f0\u4e0a\u95ee\u8fd9\u4e9b\u95ee\u9898\u3002\u73b0\u5728\uff0c\u6211\u4eec\u5c06\u6559\u4f60\u5982\u4f55\u6311\u9009\u6700\u9002\u5408\u81ea\u5df1\u7684iPhone\u3002 \u9996\u5148\uff0c\u9009\u62e9\u5408\u9002\u7684iPhone \u53d6\u51b3\u4e8e\u4f60\u6700\u770b\u91cd\u7684\u65b9\u9762\uff1a\u6027\u80fd\u3001\u76f8\u673a\u8d28\u91cf\u3001\u7535\u6c60\u7eed\u822a\u3001\u4ef7\u683c\u8fd8\u662f\u5176\u4ed6\u65b9\u9762\u3002\u56e0\u6b64\uff0c\u4f60\u9700\u8981\u5217\u51fa\u4e00\u4e9b\u4f60\u770b\u91cd\u7684\u56e0\u7d20\uff0c\u5bf9\u5b83\u4eec\u8fdb\u884c\u6392\u5e8f\uff0c\u7136\u540e\u6839\u636e\u8fd9\u4e9b\u6807\u51c6\u9009\u62e9\u4e00\u6b3e\u624b\u673a\u3002 \u5bf9\u4e8e...",
+                "source": "ireashare.com",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ7W3xIp2GkyT7ja3IgN3RiYhdsFrucTnA2G7WVMSKGU3mWdh69xHQxUwWdfXHud7mfELS588IkZIhujA",
+                "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ireashare.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "index": 3
+            },
+            {
+                "title": "\u3010iPhone\u624b\u6a5f\u63a8\u85a6\u30112026\u5e747\u6708\u860b\u679ciPhone\u624b\u6a5f\u600e\u9ebc\u9078\uff1fi17.17e ...",
+                "link": "https://www.jyes.com.tw/news.php?act=view&id=5819",
+                "snippet": "iPhone 17e \u7cfb\u5217\u624b\u6a5f\u63a8\u85a6\u53ca\u7279\u8272\u898f\u683c\u4ecb\u7d39. \u860b\u679c\u57282026\u5e74\u63a8\u51fa\u300ciPhone e\u7cfb\u5217\u300d\u7684\u7b2c\u4e8c\u6b3e\u6a5f\u578b\uff0c\u662f\u7576\u4ee3\u7522\u54c1\u4e2d\u50f9\u683c\u6700\u5be6\u60e0\u7684\u624b\u6a5f\uff0c iPhone 17e \u64c1\u6709\u6700\u65b0 A19 \u9ad8\u6548\u80fd\u6676\u7247 \u548c AI \u529f\u80fd\uff0c\u4e0d\u904e\u56e0\u6b64\u7279\u5225\u63a8\u85a6\u7d66\u9810\u7b97\u6709\u9650\u3001\u4ee5\u65e5\u5e38\u4f7f\u7528\u70ba\u4e3b\u7684\u4eba\u5165\u624b\uff01",
+                "source": "jyes.com.tw",
+                "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmpe8Y-2DoVJSYuMzMFleXOqhDkqA9Tr_GsTt36a6Pu_jWwsIsOfwoXrjuCDLTlVvqQ_NMxTndT3mJ87c",
+                "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.jyes.com.tw&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "index": 4
+            },
+            {
+                "title": "iPhone - Apple (\u4e2d\u56fd\u5927\u9646)",
+                "link": "https://www.apple.com.cn/iphone/",
+                "snippet": "\u63a2\u7d22iPhone 17 Pro\u3001iPhone Air\u3001iPhone 17 \u548ciPhone 17e\uff0c\u4ee5\u53caiPhone 16\u3002 ... \u8010\u7528\u5230\u5e95\u3002 iPhone \u7531\u8d85\u74f7\u6676\u9762\u677f\u5b88\u62a4\uff0c\u8fd9\u79cd\u6750\u8d28\u7684\u575a\u56fa\u5ea6\u8d85\u8fc7\u73bb\u7483\u6216\u5fae\u6676\u73bb\u7483\u9762\u677f\u3002\u6211\u4eec\u6700\u65b0\u6b3e\u7684iPhone \u673a\u578b\u6b63\u9762\u914d\u5907\u4e86\u8d85\u74f7\u6676\u9762\u677f2\uff0c\u6297\u522e\u5212\u80fd\u529b\u63d0\u5347\u81f33 \u500d 4\u3002\u6c34\u82b1\u98de\u6e85\uff1f\u4e5f\u662f\u5c0f\u4e8b\u4e00\u6869...",
+                "source": "apple.com.cn",
+                "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuDE78zjam1F1E7nOn37r-eciZYWr70I3wmC6z4XCwGUMDHTGMsA8Ao9J4_iXgOjf037aYMTMIlR0xoOg",
+                "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.apple.com.cn&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+                "index": 5
+            }
+        ]
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "iPhone",
+            "link": "https://www.apple.com.cn/iphone/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.apple.com.cn/iphone/&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQFnoECB0QAQ",
+            "displayed_link": "https://www.apple.com.cn \u203a iphone",
+            "favicon": "https://serpapi.com/searches/6a59ce51ff596e4c2a09de8b/images/iRTUJQ44L1tD_Cuq_SKqeCPYxx_UIoEken4iCuNC1fs.png",
+            "snippet": "... iPhone 17 Pro\u3001iPhone Air\u3001iPhone 17 \u548ciPhone 17e\uff0c\u4ee5\u53caiPhone 16 ... \u6211\u4eec\u6700\u65b0\u6b3e\u7684iPhone \u673a\u578b\u6b63\u9762\u914d\u5907\u4e86\u8d85\u74f7\u6676\u9762\u677f2\uff0c\u6297\u522e\u5212\u80fd\u529b\u63d0\u5347\u81f33 \u500d 4\u3002\u6c34\u82b1 ...",
+            "snippet_highlighted_words": [
+                "iPhone 17 Pro\u3001iPhone Air\u3001iPhone 17 \u548ciPhone 17e"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "... iPhone 17 Pro\u3001iPhone Air\u3001iPhone 17 \u548ciPhone 17e\uff0c\u4ee5\u53caiPhone 16 ... \u6211\u4eec\u6700\u65b0\u6b3e\u7684iPhone \u673a\u578b\u6b63\u9762\u914d\u5907\u4e86\u8d85\u74f7\u6676\u9762\u677f2\uff0c\u6297\u522e\u5212\u80fd\u529b\u63d0\u5347\u81f33 \u500d 4\u3002\u6c34\u82b1 ...",
+                    "source_info_link": "https://www.apple.com.cn/iphone/",
+                    "icon": "https://serpapi.com/searches/6a59ce51ff596e4c2a09de8b/images/iRTUJQ44L1tD_Cuq_SKqeJxIz5hx86ukgK1vseDVeAb2Sr3UUMm919hDTFJenTUA.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.apple.com.cn/iphone/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.apple.com.cn%2Fiphone%2F",
+            "source": "Apple (\u4e2d\u56fd\u5927\u9646)"
+        },
+        {
+            "position": 2,
+            "title": "iPhone - Apple (\u53f0\u7063)",
+            "link": "https://www.apple.com/tw/iphone/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.apple.com/tw/iphone/&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQFnoECBsQAQ",
+            "displayed_link": "https://www.apple.com \u203a iphone",
+            "favicon": "https://serpapi.com/searches/6a59ce51ff596e4c2a09de8b/images/iRTUJQ44L1tD_Cuq_SKqeIzVIDEVwp7Y2OowQhUCEpQ.png",
+            "snippet": "\u70baApple Intelligence \u7cbe\u5fc3\u8a2d\u8a08\u3002\u63a2\u7d22iPhone 17 Pro\u3001iPhone Air\u3001iPhone 17 \u8207iPhone 17e\uff0c\u4ee5\u53caiPhone 16\u3002",
+            "snippet_highlighted_words": [
+                "iPhone",
+                "iPhone",
+                "iPhone",
+                "iPhone",
+                "iPhone"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "\u70baApple Intelligence \u7cbe\u5fc3\u8a2d\u8a08\u3002\u63a2\u7d22iPhone 17 Pro\u3001iPhone Air\u3001iPhone 17 \u8207iPhone 17e\uff0c\u4ee5\u53ca\niPhone 16\u3002",
+                    "source_info_link": "https://www.apple.com/tw/iphone/",
+                    "icon": "https://serpapi.com/searches/6a59ce51ff596e4c2a09de8b/images/iRTUJQ44L1tD_Cuq_SKqeHzfbFypCL1_Tp3KBpjNJdWaX3fe9dtfh6DkCYQVwLxA.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.apple.com/tw/iphone/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.apple.com%2Ftw%2Fiphone%2F",
+            "source": "Apple"
+        },
+        {
+            "position": 3,
+            "title": "iPhone - \u7dad\u57fa\u767e\u79d1\uff0c\u81ea\u7531\u7684\u767e\u79d1\u5168\u66f8",
+            "link": "https://zh.wikipedia.org/wiki/IPhone",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zh.wikipedia.org/wiki/IPhone&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQFnoECCoQAQ",
+            "displayed_link": "https://zh.wikipedia.org \u203a wiki \u203a I...",
+            "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
+            "snippet": "\u6700\u65b0\u767c\u8868\u7684iPhone\u624b\u6a5f\u7cfb\u5217\u662fiPhone 17\u7cfb\u5217,\u65bc2025\u5e74 iPhone 16 Plus\u3001iPhone 16 Pro\u548ciPhone 16 Pro Max\u3002",
+            "snippet_highlighted_words": [
+                "\u6700\u65b0",
+                "iPhone",
+                "iPhone",
+                "iPhone",
+                "iPhone",
+                "iPhone"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "\u6700\u65b0\u767c\u8868\u7684iPhone\u624b\u6a5f\u7cfb\u5217\u662fiPhone 17\u7cfb\u5217,\u65bc2025\u5e74 iPhone 16 Plus\u3001iPhone 16 Pro\u548ciPhone 16 Pro Max\u3002",
+                    "source_info_link": "https://zh.wikipedia.org/wiki/IPhone",
+                    "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://zh.wikipedia.org/wiki/IPhone&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fzh.wikipedia.org%2Fwiki%2FIPhone",
+            "source": "\u7ef4\u57fa\u767e\u79d1"
+        },
+        {
+            "position": 4,
+            "title": "iPhone 17 Pro \u9020\u578b\u5927\u6539\uff1f\u8d85\u8584\u7684iPhone 17 Air \u5c45\u7136\u780d\u4e86\u9019\u4e9b\u6771\u897f\uff01 ...",
+            "link": "https://www.youtube.com/watch?v=pVNqL-nOVGE",
+            "displayed_link": "129.5K+ views \u00b7 10 months ago",
+            "thumbnail": "https://serpapi.com/searches/6a59ce51ff596e4c2a09de8b/images/iRTUJQ44L1tD_Cuq_SKqeH4yRu-AkrpLlLckvKLAKlk.jpeg",
+            "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
+            "snippet": "iPhone 17 Pro \u9020\u578b\u5927\u6539\uff1f\u8d85\u8584\u7684iPhone 17 Air \u5c45\u7136\u780d\u4e86\u9019\u4e9b\u6771\u897f\uff01\u860b\u679c\u79cb\u5b63\u767c\u8868\u6703\u9810\u6e2c\u5206\u6790\uff0c\u5fc5\u77e5\u91cd\u9ede\u6436\u5148\u770b\uff01 feat. Sandisk \uff5cAPPLEFANS \u860b\u679c\u8ff7.",
+            "duration": "11:32",
+            "about_this_result": {
+                "source": {
+                    "description": "iPhone 17 Pro \u9020\u578b\u5927\u6539\uff1f\u8d85\u8584\u7684iPhone 17 Air \u5c45\u7136\u780d\u4e86\u9019\u4e9b\u6771\u897f\uff01\u860b\u679c\u79cb\u5b63\u767c\u8868\u6703\u9810\u6e2c\u5206\u6790\uff0c\u5fc5\u77e5\u91cd\u9ede\u6436\u5148\u770b\uff01 feat. Sandisk \uff5cAPPLEFANS \u860b\u679c\u8ff7.",
+                    "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.youtube.com/watch?v=pVNqL-nOVGE&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpVNqL-nOVGE",
+            "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT6e2VrfEvjz-VYXUb1NzlrbHqbA7KoTpAUZA",
+            "source": "YouTube \u00b7 APPLEFANS\u860b\u679c\u8ff7"
+        },
+        {
+            "position": 5,
+            "title": "iPhone 17 Pro \u548ciPhone 17 Pro Max",
+            "link": "https://www.apple.com.cn/iphone-17-pro/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.apple.com.cn/iphone-17-pro/&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQFnoECCcQAQ",
+            "displayed_link": "https://www.apple.com.cn \u203a iphone...",
+            "favicon": "https://serpapi.com/searches/6a59ce51ff596e4c2a09de8b/images/iRTUJQ44L1tD_Cuq_SKqeCbtjudUv9adBo2IWGrGZQQ.png",
+            "snippet": "iPhone 17 Pro \u767b\u573a\u3002\u62e5\u6709\u5f3a\u608d\u8d85\u51e1\u7684\u6027\u80fd\uff0c\u5168\u65b0Center Stage \u524d\u7f6e\u6444\u50cf\u5934\uff0c\u9876\u5c16\u7684Pro \u7ea7\u62cd\u6444\u7cfb\u7edf\uff0c\u5927\u5927\u7a81\u7834\u7684\u7535\u6c60\u7eed\u822a\uff0c\u548c\u7b2c\u4e09\u4ee33 \u7eb3\u7c73\u82af\u7247A19 Pro\u3002",
+            "snippet_highlighted_words": [
+                "iPhone 17 Pro"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "iPhone 17 Pro \u767b\u573a\u3002\u62e5\u6709\u5f3a\u608d\u8d85\u51e1\u7684\u6027\u80fd\uff0c\u5168\u65b0Center Stage \u524d\u7f6e\u6444\u50cf\u5934\uff0c\u9876\u5c16\u7684Pro \u7ea7\u62cd\u6444\u7cfb\u7edf\uff0c\u5927\u5927\u7a81\u7834\u7684\u7535\u6c60\u7eed\u822a\uff0c\u548c\u7b2c\u4e09\u4ee33 \u7eb3\u7c73\u82af\u7247A19 Pro\u3002",
+                    "source_info_link": "https://www.apple.com.cn/iphone-17-pro/",
+                    "icon": "https://serpapi.com/searches/6a59ce51ff596e4c2a09de8b/images/iRTUJQ44L1tD_Cuq_SKqeKChJ4IT3I7mqQQSt9uJD692as4NG4xV1_fQG6kW3b-o.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.apple.com.cn/iphone-17-pro/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.apple.com.cn%2Fiphone-17-pro%2F",
+            "source": "Apple (\u4e2d\u56fd\u5927\u9646)"
+        },
+        {
+            "position": 6,
+            "title": "iPhone \u5168\u7cfb\u5217\u7a7a\u6a5f\u7834\u76e4\u3001\u964d\u50f9\u50f9\u683c\u8868| \u7c73\u53ef\u73fe\u8ca8\u6311\u6230\u65b0\u4f4e\u50f9",
+            "link": "https://www.miko3c.com/price/phone/iphone/?srsltid=AfmBOoo4HJdMtP4r0VdDuSBbTSkyj__tMOOt9iveHKUAWdvC3VjabxDR",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.miko3c.com/price/phone/iphone/%3Fsrsltid%3DAfmBOoo4HJdMtP4r0VdDuSBbTSkyj__tMOOt9iveHKUAWdvC3VjabxDR&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQFnoECC0QAQ",
+            "displayed_link": "https://www.miko3c.com \u203a phone",
+            "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEz_XCD_XCD_XCD_XCD_XCD_XCD_XCD_XCD_XCD_XCD_XCD_XCD_XCD_XCD_XCBcorF3AAAAEHRSTlMAEWG__2vwRdQHHzKMp1KCLbYgmgAAAINJREFUeAFjGEyAUQGFy-xqJoDEZW9sgXFnLmAU4A5smZXBc_duAAOri5uJB49fC4d3SFqKNwN_lrDh5v1-l2sDvmzg92bgTeC4wPHe73_phi8FQC6HAcuFKe_9WpY4gLlsBiIHlrzxa5nkXOLi4sjAVDB1g-jqqKcTQtlDQxcMkmABANgBKKf4-DcRAAAAAElFTkSuQmCC.png",
+            "snippet": "Apple \u860b\u679ciPhone 15 (128GB) ; Apple \u860b\u679ciPhone 17e (256GB) \u00b7 21,900 \u00b7 19,690 ; Apple \u860b\u679ciPhone 17e (512GB) \u00b7 28,900 \u00b7 26,290 ; Apple \u860b\u679ciPhone 17 Pro Max (256GB).",
+            "snippet_highlighted_words": [
+                "Apple \u860b\u679ciPhone 15 (128GB"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Apple \u860b\u679ciPhone 15 (128GB) ; Apple \u860b\u679ciPhone 17e (256GB) \u00b7 21,900 \u00b7 19,690 ; Apple \u860b\u679ciPhone 17e (512GB) \u00b7 28,900 \u00b7 26,290 ; Apple \u860b\u679ciPhone 17 Pro Max (256GB).",
+                    "source_info_link": "https://www.miko3c.com/price/phone/iphone/?srsltid=AfmBOoo4HJdMtP4r0VdDuSBbTSkyj__tMOOt9iveHKUAWdvC3VjabxDR",
+                    "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEz_XCD_XCD_XCD_XCD_XCD_XCD_XCD_XCD_XCD_XCD_XCD_XCD_XCD_XCD_XCBcorF3AAAAEHRSTlMAEWG__2vwRdQHHzKMp1KCLbYgmgAAAINJREFUeAFjGEyAUQGFy-xqJoDEZW9sgXFnLmAU4A5smZXBc_duAAOri5uJB49fC4d3SFqKNwN_lrDh5v1-l2sDvmzg92bgTeC4wPHe73_phi8FQC6HAcuFKe_9WpY4gLlsBiIHlrzxa5nkXOLi4sjAVDB1g-jqqKcTQtlDQxcMkmABANgBKKf4-DcRAAAAAElFTkSuQmCC.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.miko3c.com/price/phone/iphone/?srsltid=AfmBOoo4HJdMtP4r0VdDuSBbTSkyj__tMOOt9iveHKUAWdvC3VjabxDR&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.miko3c.com%2Fprice%2Fphone%2Fiphone%2F%3Fsrsltid%3DAfmBOoo4HJdMtP4r0VdDuSBbTSkyj__tMOOt9iveHKUAWdvC3VjabxDR",
+            "source": "miko\u7c73\u53ef\u624b\u6a5f\u9928",
+            "read_more_link": "https://www.miko3c.com/price/phone/iphone/?srsltid=AfmBOoo4HJdMtP4r0VdDuSBbTSkyj__tMOOt9iveHKUAWdvC3VjabxDR#:~:text=%E5%9E%8B%E8%99%9F&text=Apple%20%E8%98%8B%E6%9E%9CiPhone%2017e%20(256GB)&text=21%2C900&text=19%2C690&text=Apple%20%E8%98%8B%E6%9E%9CiPhone%2017e%20(512GB)&text=28%2C900&text=26%2C290&text=Apple%20%E8%98%8B%E6%9E%9CiPhone%2017%20Pro%20Max,(256GB)"
+        },
+        {
+            "position": 7,
+            "title": "iPhone,\u624b\u6a5f/\u76f8\u6a5f- momo\u8cfc\u7269\u7db2- \u597d\u8a55\u63a8\u85a6- 2026\u5e747\u6708",
+            "link": "https://www.momoshop.com.tw/categories/1905200000?srsltid=AfmBOopbi3pYA56ashY6ZB2jNhqixEhGOX8clOehGWDMh1dQcG6ZNpu7",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.momoshop.com.tw/categories/1905200000%3Fsrsltid%3DAfmBOopbi3pYA56ashY6ZB2jNhqixEhGOX8clOehGWDMh1dQcG6ZNpu7&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQFnoECCgQAQ",
+            "displayed_link": "https://www.momoshop.com.tw \u203a ...",
+            "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAclBMVEXqJ8LpHcDpEr_rMcX0ld_6zPD4wezyfdjsOsf1m-Hye9j5xO360fHqJMP____97fryg9r85PfwadPziNv-9_373fXvZNLzjNz__P_xb9XtTsv1n-HpAL74uuvxc9buV872reb1ouPuW8_3tun2sOfsQslP_VX2AAAA70lEQVR4AcWRRQLDMAwErQ2Twmwo_v-Ldcp8jQ6iMa7EakYAEay7FqAHc1zPD8LI82PYyk3SxHVuLPPYWr44F2QLa152YVRwWdUNt10_NGHM5TiNJRd0hpi5llKxljJh43IvCTXPuMGYsOGKoBYYQFD8BINnuJWQ0Ve42_Gwn_eDrZ7g4QI7RAMzD_OFCTLBETBxCOziUNCktZ7ooc8Ux6E0sQ4hBN7gPFgN_MV19H5sxcMhYW4OHpeZfZBaHtTdHxRJePbzaJ-_8i7C_q8Ib_K9i_Au_PZFhPeRtRVRn-6IotTQ27AJtDhxdwCJtewESXAXDuWFzyoAAAAASUVORK5CYII.png",
+            "snippet": "\u3010Apple\u3011S+\u7d1a\u798f\u5229\u54c1iPhone 17 Pro Max 512G 6.9\u540b(\u96fb\u6c60\u5065\u5eb7\u5ea6100%+\u539f\u5ee0\u914d\u4ef6\u5916\u76d2) \u00b7 $51,900 ; \u3010Apple\u3011S+\u7d1a\u798f\u5229\u54c1iPhone Air(256G/6.5\u540b) \u00b7 $36,900 ; \u3010Apple\u3011A\u7d1a\u798f\u5229\u54c1 ...",
+            "snippet_highlighted_words": [
+                "iPhone",
+                "iPhone"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "\u3010Apple\u3011S+\u7d1a\u798f\u5229\u54c1iPhone 17 Pro Max 512G 6.9\u540b(\u96fb\u6c60\u5065\u5eb7\u5ea6100%+\u539f\u5ee0\u914d\u4ef6\u5916\u76d2) \u00b7 $51,900 ; \u3010Apple\u3011S+\u7d1a\u798f\u5229\u54c1iPhone Air(256G/6.5\u540b) \u00b7 $36,900 ; \u3010Apple\u3011A\u7d1a\u798f\u5229\u54c1 ...",
+                    "source_info_link": "https://www.momoshop.com.tw/categories/1905200000?srsltid=AfmBOopbi3pYA56ashY6ZB2jNhqixEhGOX8clOehGWDMh1dQcG6ZNpu7",
+                    "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAclBMVEXqJ8LpHcDpEr_rMcX0ld_6zPD4wezyfdjsOsf1m-Hye9j5xO360fHqJMP____97fryg9r85PfwadPziNv-9_373fXvZNLzjNz__P_xb9XtTsv1n-HpAL74uuvxc9buV872reb1ouPuW8_3tun2sOfsQslP_VX2AAAA70lEQVR4AcWRRQLDMAwErQ2Twmwo_v-Ldcp8jQ6iMa7EakYAEay7FqAHc1zPD8LI82PYyk3SxHVuLPPYWr44F2QLa152YVRwWdUNt10_NGHM5TiNJRd0hpi5llKxljJh43IvCTXPuMGYsOGKoBYYQFD8BINnuJWQ0Ve42_Gwn_eDrZ7g4QI7RAMzD_OFCTLBETBxCOziUNCktZ7ooc8Ux6E0sQ4hBN7gPFgN_MV19H5sxcMhYW4OHpeZfZBaHtTdHxRJePbzaJ-_8i7C_q8Ib_K9i_Au_PZFhPeRtRVRn-6IotTQ27AJtDhxdwCJtewESXAXDuWFzyoAAAAASUVORK5CYII.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.momoshop.com.tw/categories/1905200000?srsltid=AfmBOopbi3pYA56ashY6ZB2jNhqixEhGOX8clOehGWDMh1dQcG6ZNpu7&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.momoshop.com.tw%2Fcategories%2F1905200000%3Fsrsltid%3DAfmBOopbi3pYA56ashY6ZB2jNhqixEhGOX8clOehGWDMh1dQcG6ZNpu7",
+            "source": "momo\u8cfc\u7269\u7db2",
+            "read_more_link": "https://www.momoshop.com.tw/categories/1905200000?srsltid=AfmBOopbi3pYA56ashY6ZB2jNhqixEhGOX8clOehGWDMh1dQcG6ZNpu7#:~:text=%E3%80%90Apple%E3%80%91A%E7%B4%9A%E7%A6%8F%E5%88%A9%E5%93%81iPhone%2012(90%25UP%E9%9B%BB%E6%B1%A0%E5%81%A5%E5%BA%B7%E5%BA%A6%2F128G%2F6.1%E5%90%8B)&text=%E3%80%90Apple%E3%80%91A%E7%B4%9A%E7%A6%8F%E5%88%A9%E5%93%81iPhone%2012(90%25UP%E9%9B%BB%E6%B1%A0%E5%81%A5%E5%BA%B7%E5%BA%A6%2F128G%2F6.1%E5%90%8B)&text=%E3%80%90Apple%E3%80%91A%E7%B4%9A%E7%A6%8F%E5%88%A9%E5%93%81iPhone%2012(90%25UP%E9%9B%BB%E6%B1%A0%E5%81%A5%E5%BA%B7%E5%BA%A6%2F128G%2F6.1%E5%90%8B)&text=%E3%80%90Apple%E3%80%91A%E7%B4%9A%E7%A6%8F%E5%88%A9%E5%93%81iPhone%2012(90%25UP%E9%9B%BB%E6%B1%A0%E5%81%A5%E5%BA%B7%E5%BA%A6%2F128G%2F6.1%E5%90%8B)&text=%E3%80%90Apple%E3%80%91A%E7%B4%9A%E7%A6%8F%E5%88%A9%E5%93%81iPhone%2012(90%25UP%E9%9B%BB%E6%B1%A0%E5%81%A5%E5%BA%B7%E5%BA%A6%2F128G%2F6.1%E5%90%8B)"
+        },
+        {
+            "position": 8,
+            "title": "\u3010iPhone\u624b\u6a5f\u63a8\u85a6\u30112026\u5e747\u6708\u860b\u679ciPhone\u624b\u6a5f\u600e\u9ebc\u9078\uff1fi17. ...",
+            "link": "https://www.jyes.com.tw/news.php?act=view&id=5819",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.jyes.com.tw/news.php%3Fact%3Dview%26id%3D5819&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQFnoECC4QAQ",
+            "displayed_link": "https://www.jyes.com.tw \u203a news",
+            "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____x8_X2-Pl9jKCNm6z__PH__vr_99ns4rIAIlsAKVnx46r_88n988398MH87bH87rj87K___-pheJYANWBwhZzU2uIAI1YSPWXf4-f--ur632lAW3sAOGYAMmhKZYj86aO5ws8wS2BpbVKBfkh6djjOyav76Jt6ekhucFA3T18ALWYhS3qcqsAAIGAZQWO4uqt4d00AN2cALVtXboh1hJmns8F1iZ-hrr3CytMtUXWQ7aSGAAAA7ElEQVR4AcXQA3ZDQQBA0fcVexxbZYz976tunIPyjg3-nedzXRASRTEuiSeSqXQmm8sXOBErFktCSsWLXMSRXB60sdY4KFeOd87Ggaq0tXqj1MzQPD4uA61krd3p9vpQiHNkkMsPh8PRuH5zG2-WORnk7r5erz-Mur1HzqR7w2G3OxlPpzXOBKla7WXAWjsLOeEZu2M8js1ncmemOOLE4oDw-HXLcNkCEaxgvRYbCFZqN1htzEPYvvYsQ7tmI6rb3Z2UUkvWNpw7VmoboINqlU-hqi5xcy-EqlArmIuGv_uel4Dvv-VOO3DO8S3Peu4YNEauOUgAAAAASUVORK5CYII.png",
+            "date": "Jul 7, 2026",
+            "snippet": "\u860b\u679c\u57282026\u5e74\u63a8\u51fa\u300ciPhone e\u7cfb\u5217\u300d\u7684\u7b2c\u4e8c\u6b3e\u6a5f\u578b\uff0c\u662f\u7576\u4ee3\u7522\u54c1\u4e2d\u50f9\u683c\u6700\u5be6\u60e0\u7684\u624b\u6a5f\uff0c iPhone 17e \u64c1\u6709\u6700\u65b0 A19 \u9ad8\u6548\u80fd\u6676\u7247 \u548c AI \u529f\u80fd\uff0c\u4e0d\u904e\u56e0\u6b64\u7279\u5225\u63a8\u85a6\u7d66\u9810\u7b97 ...",
+            "snippet_highlighted_words": [
+                "iPhone 17e"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "\u860b\u679c\u57282026\u5e74\u63a8\u51fa\u300ciPhone e\u7cfb\u5217\u300d\u7684\u7b2c\u4e8c\u6b3e\u6a5f\u578b\uff0c\u662f\u7576\u4ee3\u7522\u54c1\u4e2d\u50f9\u683c\u6700\u5be6\u60e0\u7684\u624b\u6a5f\uff0c iPhone 17e \u64c1\u6709\u6700\u65b0 A19 \u9ad8\u6548\u80fd\u6676\u7247 \u548c AI \u529f\u80fd\uff0c\u4e0d\u904e\u56e0\u6b64\u7279\u5225\u63a8\u85a6\u7d66\u9810\u7b97 ...",
+                    "source_info_link": "https://www.jyes.com.tw/news.php?act=view&id=5819",
+                    "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAsVBMVEX____x8_X2-Pl9jKCNm6z__PH__vr_99ns4rIAIlsAKVnx46r_88n988398MH87bH87rj87K___-pheJYANWBwhZzU2uIAI1YSPWXf4-f--ur632lAW3sAOGYAMmhKZYj86aO5ws8wS2BpbVKBfkh6djjOyav76Jt6ekhucFA3T18ALWYhS3qcqsAAIGAZQWO4uqt4d00AN2cALVtXboh1hJmns8F1iZ-hrr3CytMtUXWQ7aSGAAAA7ElEQVR4AcXQA3ZDQQBA0fcVexxbZYz976tunIPyjg3-nedzXRASRTEuiSeSqXQmm8sXOBErFktCSsWLXMSRXB60sdY4KFeOd87Ggaq0tXqj1MzQPD4uA61krd3p9vpQiHNkkMsPh8PRuH5zG2-WORnk7r5erz-Mur1HzqR7w2G3OxlPpzXOBKla7WXAWjsLOeEZu2M8js1ncmemOOLE4oDw-HXLcNkCEaxgvRYbCFZqN1htzEPYvvYsQ7tmI6rb3Z2UUkvWNpw7VmoboINqlU-hqi5xcy-EqlArmIuGv_uel4Dvv-VOO3DO8S3Peu4YNEauOUgAAAAASUVORK5CYII.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.jyes.com.tw/news.php?act=view&id=5819&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.jyes.com.tw%2Fnews.php%3Fact%3Dview%26id%3D5819",
+            "source": "\u5091\u6607\u901a\u4fe1",
+            "read_more_link": "https://www.jyes.com.tw/news.php?act=view&id=5819#:~:text=%E8%98%8B%E6%9E%9C%E5%9C%A82026%E5%B9%B4%E6%8E%A8%E5%87%BA%E3%80%8CiPhone%20e%E7%B3%BB%E5%88%97%E3%80%8D%E7%9A%84%E7%AC%AC%E4%BA%8C%E6%AC%BE%E6%A9%9F%E5%9E%8B%EF%BC%8C%E6%98%AF%E7%95%B6%E4%BB%A3%E7%94%A2%E5%93%81%E4%B8%AD%E5%83%B9%E6%A0%BC%E6%9C%80%E5%AF%A6%E6%83%A0%E7%9A%84%E6%89%8B%E6%A9%9F%EF%BC%8C%20iPhone%2017e%20%E6%93%81%E6%9C%89%E6%9C%80%E6%96%B0,A19%20%E9%AB%98%E6%95%88%E8%83%BD%E6%99%B6%E7%89%87%20%E5%92%8C%20AI%20%E5%8A%9F%E8%83%BD%EF%BC%8C%E4%B8%8D%E9%81%8E%E5%9B%A0%E6%AD%A4%E7%89%B9%E5%88%A5%E6%8E%A8%E8%96%A6%E7%B5%A6%E9%A0%90%E7%AE%97%E6%9C%89%E9%99%90%E3%80%81%E4%BB%A5%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8%E7%82%BA%E4%B8%BB%E7%9A%84%E4%BA%BA%E5%85%A5%E6%89%8B%EF%BC%81"
+        },
+        {
+            "position": 9,
+            "title": "Apple iPhone 17 \u7cfb\u5217\u5916\u89c0\u6436\u5148\u66dd\u5149\uff0c\u5f9e\u65b0\u8272\u3001\u529f\u80fd",
+            "link": "https://www.gq.com.tw/article/apple-iphone17-%E6%90%B6%E5%85%88%E6%9B%9D%E5%85%89",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.gq.com.tw/article/apple-iphone17-%25E6%2590%25B6%25E5%2585%2588%25E6%259B%259D%25E5%2585%2589&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQFnoECCsQAQ",
+            "displayed_link": "https://www.gq.com.tw \u203a article",
+            "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEUAAABBQUH29vZmZmYAAAD8_Pzv7-8AAAAAAAD___-0tLQiIiLl5eUUFBQwMDCDg4OioqLAwMB2dnZTU1PKysqTk5PY2NhpAfdvAAAACXRSTlPq________7NfMQHnJAAAA7klEQVQokc1SyXbEIAyz2aZhh0D-_1MrA33toXMfH_KMhWTZhMz7IPpQkLXOpxTum_-AeboL8fRkjG4WqfJ8QB7XDltDUSePfYG5ycFJ1Xr5KgeyjVrAgjTWXryzS3HMUiMSH4gSiK6IEd2lX5NuOoJ6E2XcagFnX-uDe30ZnZDQAOG0JpPqMcImCRUanSgIEzMeEMyqlIr2smAmD4UZjB57isH8HA247UqGLnPYPewz99wVbk3wq7Y0vbt-QvW9IW9Pv5nKL9ry3m2Rfs5r2e0ij-aUK-dVAuMp0koT3_oOgZnzx_5D_8aL3sfr6xveBBL-tAxj8gAAAABJRU5ErkJggg.png",
+            "date": "Aug 14, 2025",
+            "snippet": "iPhone 17\uff1a6.1 \u540b\u87a2\u5e55\u3001A19 \u6676\u7247\u3001\u96d94800 \u842c\u756b\u7d20\u93e1\u982d ; iPhone 17 Air\uff1a6.6 \u540b\u87a2\u5e55\u3001A19 \u6676\u7247\u3001\u55ae4800 \u842c\u756b\u7d20\u93e1\u982d ; iPhone 17 Pro\uff1a6.3 \u540b\u87a2\u5e55\u3001A19 Pro \u6676\u7247 ...",
+            "snippet_highlighted_words": [
+                "iPhone",
+                "iPhone",
+                "iPhone"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "iPhone 17\uff1a6.1 \u540b\u87a2\u5e55\u3001A19 \u6676\u7247\u3001\u96d94800 \u842c\u756b\u7d20\u93e1\u982d ; iPhone 17 Air\uff1a6.6 \u540b\u87a2\u5e55\u3001A19 \u6676\u7247\u3001\u55ae4800 \u842c\u756b\u7d20\u93e1\u982d ; iPhone 17 Pro\uff1a6.3 \u540b\u87a2\u5e55\u3001A19 Pro \u6676\u7247 ...",
+                    "source_info_link": "https://www.gq.com.tw/article/apple-iphone17-%E6%90%B6%E5%85%88%E6%9B%9D%E5%85%89",
+                    "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEUAAABBQUH29vZmZmYAAAD8_Pzv7-8AAAAAAAD___-0tLQiIiLl5eUUFBQwMDCDg4OioqLAwMB2dnZTU1PKysqTk5PY2NhpAfdvAAAACXRSTlPq________7NfMQHnJAAAA7klEQVQokc1SyXbEIAyz2aZhh0D-_1MrA33toXMfH_KMhWTZhMz7IPpQkLXOpxTum_-AeboL8fRkjG4WqfJ8QB7XDltDUSePfYG5ycFJ1Xr5KgeyjVrAgjTWXryzS3HMUiMSH4gSiK6IEd2lX5NuOoJ6E2XcagFnX-uDe30ZnZDQAOG0JpPqMcImCRUanSgIEzMeEMyqlIr2smAmD4UZjB57isH8HA247UqGLnPYPewz99wVbk3wq7Y0vbt-QvW9IW9Pv5nKL9ry3m2Rfs5r2e0ij-aUK-dVAuMp0koT3_oOgZnzx_5D_8aL3sfr6xveBBL-tAxj8gAAAABJRU5ErkJggg.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.gq.com.tw/article/apple-iphone17-%E6%90%B6%E5%85%88%E6%9B%9D%E5%85%89&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.gq.com.tw%2Farticle%2Fapple-iphone17-%25E6%2590%25B6%25E5%2585%2588%25E6%259B%259D%25E5%2585%2589",
+            "source": "GQ Taiwan",
+            "read_more_link": "https://www.gq.com.tw/article/apple-iphone17-%E6%90%B6%E5%85%88%E6%9B%9D%E5%85%89#:~:text=iPhone%2017%EF%BC%9A6.1%20%E5%90%8B%E8%9E%A2%E5%B9%95%E3%80%81A19%20%E6%99%B6%E7%89%87%E3%80%81%E9%9B%994800%20%E8%90%AC%E7%95%AB%E7%B4%A0%E9%8F%A1%E9%A0%AD&text=iPhone%2017%20Air%EF%BC%9A6.6%20%E5%90%8B%E8%9E%A2%E5%B9%95%E3%80%81A19%20%E6%99%B6%E7%89%87%E3%80%81%E5%96%AE4800,%E8%90%AC%E7%95%AB%E7%B4%A0%E9%8F%A1%E9%A0%AD&text=iPhone%2017%20Pro%EF%BC%9A6.3%20%E5%90%8B%E8%9E%A2%E5%B9%95%E3%80%81A19%20Pro,%E6%99%B6%E7%89%87%E3%80%81%E4%B8%89%E9%8F%A1%E9%A0%AD%EF%BC%884800%20%E8%90%AC%E5%83%8F%E7%B4%A0%EF%BC%89"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Iphone 17 \u4ec0\u4e48 \u65f6\u5019 \u51fa",
+            "link": "https://www.google.com/search?sca_esv=cddd62cdcec56474&hl=en&gl=us&q=Iphone+17+%E4%BB%80%E4%B9%88+%E6%97%B6%E5%80%99+%E5%87%BA&sa=X&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQ1QJ6BAgmEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Iphone+17+%E4%BB%80%E4%B9%88+%E6%97%B6%E5%80%99+%E5%87%BA"
+        },
+        {
+            "block_position": 1,
+            "query": "\u82f9\u679c16 pro max\u6700\u65b0\u4ef7\u683c",
+            "link": "https://www.google.com/search?sca_esv=cddd62cdcec56474&hl=en&gl=us&q=%E8%8B%B9%E6%9E%9C16+pro+max%E6%9C%80%E6%96%B0%E4%BB%B7%E6%A0%BC&sa=X&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQ1QJ6BAg7EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%E8%8B%B9%E6%9E%9C16+pro+max%E6%9C%80%E6%96%B0%E4%BB%B7%E6%A0%BC"
+        },
+        {
+            "block_position": 1,
+            "query": "Iphone \u5b98\u7f51",
+            "link": "https://www.google.com/search?sca_esv=cddd62cdcec56474&hl=en&gl=us&q=Iphone+%E5%AE%98%E7%BD%91&sa=X&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQ1QJ6BAg4EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Iphone+%E5%AE%98%E7%BD%91"
+        },
+        {
+            "block_position": 1,
+            "query": "\u82f9\u679c17 pro max\u4ef7\u683c",
+            "link": "https://www.google.com/search?sca_esv=cddd62cdcec56474&hl=en&gl=us&q=%E8%8B%B9%E6%9E%9C17+pro+max%E4%BB%B7%E6%A0%BC&sa=X&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQ1QJ6BAg0EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%E8%8B%B9%E6%9E%9C17+pro+max%E4%BB%B7%E6%A0%BC"
+        },
+        {
+            "block_position": 1,
+            "query": "\u82f9\u679c16\u4ef7\u683c",
+            "link": "https://www.google.com/search?sca_esv=cddd62cdcec56474&hl=en&gl=us&q=%E8%8B%B9%E6%9E%9C16%E4%BB%B7%E6%A0%BC&sa=X&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQ1QJ6BAgwEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%E8%8B%B9%E6%9E%9C16%E4%BB%B7%E6%A0%BC"
+        },
+        {
+            "block_position": 1,
+            "query": "\u82f9\u679c17\u4ef7\u683c",
+            "link": "https://www.google.com/search?sca_esv=cddd62cdcec56474&hl=en&gl=us&q=%E8%8B%B9%E6%9E%9C17%E4%BB%B7%E6%A0%BC&sa=X&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQ1QJ6BAgvEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%E8%8B%B9%E6%9E%9C17%E4%BB%B7%E6%A0%BC"
+        },
+        {
+            "block_position": 1,
+            "query": "\u82f9\u679c16 pro max\u4ef7\u683c",
+            "link": "https://www.google.com/search?sca_esv=cddd62cdcec56474&hl=en&gl=us&q=%E8%8B%B9%E6%9E%9C16+pro+max%E4%BB%B7%E6%A0%BC&sa=X&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQ1QJ6BAgsEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%E8%8B%B9%E6%9E%9C16+pro+max%E4%BB%B7%E6%A0%BC"
+        },
+        {
+            "block_position": 1,
+            "query": "\u82f9\u679c16\u5b98\u7f51\u4ef7\u683c",
+            "link": "https://www.google.com/search?sca_esv=cddd62cdcec56474&hl=en&gl=us&q=%E8%8B%B9%E6%9E%9C16%E5%AE%98%E7%BD%91%E4%BB%B7%E6%A0%BC&sa=X&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQ1QJ6BAgpEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=%E8%8B%B9%E6%9E%9C16%E5%AE%98%E7%BD%91%E4%BB%B7%E6%A0%BC"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&sca_esv=cddd62cdcec56474&hl=en&gl=us&ei=Us5ZaoqGEr6Jxc8Pu4PkqAI&start=10&sa=N&sstk=AU9db-B6Qy3VPxw13eybi7oFnqMEUaLcmlsvhEpbJB6XIAg25n-_DkebnL2s04KdMv1hRJIC_6gQzT146jhgGTTpzpTCQVW4I2gZMg&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQ8NMDegQIMxAW",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&sca_esv=cddd62cdcec56474&hl=en&gl=us&ei=Us5ZaoqGEr6Jxc8Pu4PkqAI&start=10&sa=N&sstk=AU9db-B6Qy3VPxw13eybi7oFnqMEUaLcmlsvhEpbJB6XIAg25n-_DkebnL2s04KdMv1hRJIC_6gQzT146jhgGTTpzpTCQVW4I2gZMg&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQ8tMDegQIMxAE",
+            "3": "https://www.google.com/search?q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&sca_esv=cddd62cdcec56474&hl=en&gl=us&ei=Us5ZaoqGEr6Jxc8Pu4PkqAI&start=20&sa=N&sstk=AU9db-B6Qy3VPxw13eybi7oFnqMEUaLcmlsvhEpbJB6XIAg25n-_DkebnL2s04KdMv1hRJIC_6gQzT146jhgGTTpzpTCQVW4I2gZMg&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQ8tMDegQIMxAG",
+            "4": "https://www.google.com/search?q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&sca_esv=cddd62cdcec56474&hl=en&gl=us&ei=Us5ZaoqGEr6Jxc8Pu4PkqAI&start=30&sa=N&sstk=AU9db-B6Qy3VPxw13eybi7oFnqMEUaLcmlsvhEpbJB6XIAg25n-_DkebnL2s04KdMv1hRJIC_6gQzT146jhgGTTpzpTCQVW4I2gZMg&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQ8tMDegQIMxAI",
+            "5": "https://www.google.com/search?q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&sca_esv=cddd62cdcec56474&hl=en&gl=us&ei=Us5ZaoqGEr6Jxc8Pu4PkqAI&start=40&sa=N&sstk=AU9db-B6Qy3VPxw13eybi7oFnqMEUaLcmlsvhEpbJB6XIAg25n-_DkebnL2s04KdMv1hRJIC_6gQzT146jhgGTTpzpTCQVW4I2gZMg&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQ8tMDegQIMxAK",
+            "6": "https://www.google.com/search?q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&sca_esv=cddd62cdcec56474&hl=en&gl=us&ei=Us5ZaoqGEr6Jxc8Pu4PkqAI&start=50&sa=N&sstk=AU9db-B6Qy3VPxw13eybi7oFnqMEUaLcmlsvhEpbJB6XIAg25n-_DkebnL2s04KdMv1hRJIC_6gQzT146jhgGTTpzpTCQVW4I2gZMg&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQ8tMDegQIMxAM",
+            "7": "https://www.google.com/search?q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&sca_esv=cddd62cdcec56474&hl=en&gl=us&ei=Us5ZaoqGEr6Jxc8Pu4PkqAI&start=60&sa=N&sstk=AU9db-B6Qy3VPxw13eybi7oFnqMEUaLcmlsvhEpbJB6XIAg25n-_DkebnL2s04KdMv1hRJIC_6gQzT146jhgGTTpzpTCQVW4I2gZMg&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQ8tMDegQIMxAO",
+            "8": "https://www.google.com/search?q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&sca_esv=cddd62cdcec56474&hl=en&gl=us&ei=Us5ZaoqGEr6Jxc8Pu4PkqAI&start=70&sa=N&sstk=AU9db-B6Qy3VPxw13eybi7oFnqMEUaLcmlsvhEpbJB6XIAg25n-_DkebnL2s04KdMv1hRJIC_6gQzT146jhgGTTpzpTCQVW4I2gZMg&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQ8tMDegQIMxAQ",
+            "9": "https://www.google.com/search?q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&sca_esv=cddd62cdcec56474&hl=en&gl=us&ei=Us5ZaoqGEr6Jxc8Pu4PkqAI&start=80&sa=N&sstk=AU9db-B6Qy3VPxw13eybi7oFnqMEUaLcmlsvhEpbJB6XIAg25n-_DkebnL2s04KdMv1hRJIC_6gQzT146jhgGTTpzpTCQVW4I2gZMg&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQ8tMDegQIMxAS",
+            "10": "https://www.google.com/search?q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&sca_esv=cddd62cdcec56474&hl=en&gl=us&ei=Us5ZaoqGEr6Jxc8Pu4PkqAI&start=90&sa=N&sstk=AU9db-B6Qy3VPxw13eybi7oFnqMEUaLcmlsvhEpbJB6XIAg25n-_DkebnL2s04KdMv1hRJIC_6gQzT146jhgGTTpzpTCQVW4I2gZMg&ved=2ahUKEwiK99yjjdmVAxW-RPEDHbsBGSUQ8tMDegQIMxAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=iPhone%E6%9C%80%E6%96%B0%E6%AC%BE&start=90"
+        }
+    }
+}
